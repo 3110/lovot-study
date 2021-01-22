@@ -4,10 +4,10 @@
 
 他の人が作った LOVOT STUDY ファイル（拡張子が `sb3` ファイル，以下「`sb3`ファイル」と呼びます）を読み込んだとき，LOVOT に接続するためのブロックに LOVOT の名前が設定されていないので，LOVOT の名前を設定し，`sb3`ファイルを保存し直してください。
 
-<figure id="connect_block" style="text-align:center;">
-<a href="https://gyazo.com/3580213505f3c60753fb8bf356d90702"><img src="https://i.gyazo.com/3580213505f3c60753fb8bf356d90702.png" alt="LOVOTに接続するブロック" width="150"/></a>
-<figcaption style="font-size: small;">LOVOTに接続するためのブロック</figcaption>
-</figure>
+<p align="center">
+    <a href="https://gyazo.com/3580213505f3c60753fb8bf356d90702"><img src="https://i.gyazo.com/3580213505f3c60753fb8bf356d90702.png" alt="LOVOTに接続するブロック" width="150"/></a><br />
+    LOVOTに接続するブロック
+</p>
 
 1. ブラウザで[LOVOT STUDY](https://play.lovot.life/)（[https://play.lovot.life/]()）を開き，「ファイル」メニューから「コンピューターから読み込む」を選択して`sb3`ファイルを読み込みます。
 1. 「○○ につなぐ」ブロックで自分の LOVOT の名前が表示されるように選択します。
@@ -15,7 +15,7 @@
 
 ---
 
-## らぼタイマー（[`lavotimer.sb3`](https://github.com/3110/lovot-study/blob/master/lovotimer.sb3)）
+## らぼタイマー（[`lovotimer.sb3`](https://github.com/3110/lovot-study/raw/main/lovotimer.sb3)）
 
 30 秒単位（30 秒，60 秒，90 秒，……）で秒数を設定すると LOVOT が時間を測ってくれます。設定した時間になるまで声を出して数えてくれて，時間になると喜びます。
 
@@ -23,7 +23,7 @@
 
 ### 実行方法
 
-1. [`lavotimer.sb3`](https://github.com/3110/lovot-study/blob/master/lovotimer.sb3)（[https://github.com/3110/lovot-study/blob/master/lovotimer.sb3]()）をダウンロードして保存します。
+1. [`lovotimer.sb3`](https://github.com/3110/lovot-study/raw/main/lovotimer.sb3)（[https://github.com/3110/lovot-study/raw/main/lovotimer.sb3]()）をダウンロードして保存します。
 1. ブラウザから[LOVOT STUDY](https://play.lovot.life/)（[https://play.lovot.life/]()）を開き，「ファイル」メニューから「コンピューターから読み込む」を選択してダウンロードした`lovotimer.sb3`ファイルを読み込みます。
 1. このページの最初にある「共通：LOVOT の名前を設定する」の手順に従って LOVOT の名前を設定します。
 1. キーボードの`c`キーを押して LOVOT に接続します（足を出します）。
