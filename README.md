@@ -9,7 +9,7 @@
     LOVOTに接続するブロック
 </p>
 
-1. ブラウザで[LOVOT STUDY](https://play.lovot.life/)（[https://play.lovot.life/]()）を開き，「ファイル」メニューから「コンピューターから読み込む」を選択して`sb3`ファイルを読み込みます。
+1. ブラウザで[LOVOT STUDY](https://play.lovot.life/)（[https://play.lovot.life/](https://play.lovot.life/)）を開き，「ファイル」メニューから「コンピューターから読み込む」を選択して`sb3`ファイルを読み込みます。
 1. 「○○ につなぐ」ブロックで自分の LOVOT の名前が表示されるように選択します。
 1. 「ファイル」メニューから「コンピューターに保存する」を選択してファイルを保存します。このとき，ダウンロードしたファイルに上書きしても良いです。
 
@@ -24,7 +24,7 @@
 ### 実行方法
 
 1. [`lovotimer.sb3`](https://github.com/3110/lovot-study/raw/main/lovotimer.sb3)（[https://github.com/3110/lovot-study/raw/main/lovotimer.sb3]()）をダウンロードして保存します。
-1. ブラウザから[LOVOT STUDY](https://play.lovot.life/)（[https://play.lovot.life/]()）を開き，「ファイル」メニューから「コンピューターから読み込む」を選択してダウンロードした`lovotimer.sb3`ファイルを読み込みます。
+1. ブラウザから[LOVOT STUDY](https://play.lovot.life/)（[https://play.lovot.life/](https://play.lovot.life/)）を開き，「ファイル」メニューから「コンピューターから読み込む」を選択してダウンロードした`lovotimer.sb3`ファイルを読み込みます。
 1. このページの最初にある「共通：LOVOT の名前を設定する」の手順に従って LOVOT の名前を設定します。
 1. キーボードの`c`キーを押して LOVOT に接続します（足を出します）。
 1. 画面右上にある緑色の旗のアイコンを押してプログラムを実行します。
