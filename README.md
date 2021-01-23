@@ -17,7 +17,7 @@
 
 ## らぼタイマー（[`lovotimer.sb3`](https://github.com/3110/lovot-study/raw/main/lovotimer.sb3)）
 
-30 秒単位（30 秒，60 秒，90 秒，……）で秒数を設定すると LOVOT が時間を測ってくれます。設定した時間になるまで声を出して数えてくれて，時間になると喜びます。
+30 秒単位（30 秒，60 秒，90 秒，……）で秒数を設定すると LOVOT が時間を計ってくれます。設定した時間になるまで声を出して数えてくれて，時間になると喜びます。
 
 <a href="https://gyazo.com/3768fe270d982f4998bac82afb5e9ae8"><img src="https://i.gyazo.com/3768fe270d982f4998bac82afb5e9ae8.png" alt="らぼタイマー画面" width="600"/></a>
 
